@@ -1,16 +1,23 @@
-## Hi there 👋
+### What I'm Building
 
-<!--
-**santosha86/santosha86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I ship working AI products in days, not months. Five independent products in the last 18 months:
 
-Here are some ideas to get you started:
+- **[GhostCheck](https://github.com/santosha86/Ghost_Check)** — 11-agent CV-audit skill pack with deterministic aggregator
+- **[ContentOS](https://github.com/santosha86/contentos-portfolio)** — multi-tenant AI content platform on LangGraph + Claude Sonnet 4
+- **[Fleet Dispatch AI](https://github.com/santosha86/fleet-dispatch-ai-assistant)** — bilingual (English/Arabic) production assistant for dispatch operators
+- **[PRDForge](https://github.com/santosha86/PRDForge)** — PRD-to-skill-pack meta-framework with a Suitability Gate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Plus an AI Interview & CV-matching platform (multi-agent, voice-enabled, automated scoring).
+
+### Day Job
+
+16+ years of enterprise AI delivery for **SABIC, Aramco, SEC, and STC** across the Middle East — RAG, RAFT, multi-agent orchestration, MLOps, full-stack engineering on Kubernetes-native platforms.
+
+### Currently
+
+- Principal AI Engineer · Saudi Electricity Company (via Nor Consult Telematics)
+- Pursuing DBA in Emerging Technologies, GenAI specialization · Golden Gate University, San Francisco
+- Building independently in the open
+
+📍 Riyadh / Jubail, Saudi Arabia
+🔗 [LinkedIn](https://www.linkedin.com/in/santosh-achanta-ds/)
