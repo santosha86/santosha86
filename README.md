@@ -1,6 +1,6 @@
 ### What I'm Building
 
-I ship working AI products in days, not months. Five independent products in the last 18 months:
+I ship working AI products in days, not months. Five independent products in the last 4 months:
 
 - **[GhostCheck](https://github.com/santosha86/Ghost_Check)** — 11-agent CV-audit skill pack with deterministic aggregator
 - **[ContentOS](https://github.com/santosha86/contentos-portfolio)** — multi-tenant AI content platform on LangGraph + Claude Sonnet 4
